@@ -1,0 +1,79 @@
+
+
+* Everything in python is object *
+*** Every object contains methods ***
+
+
+number
+-------
+number can be integer or decimal or octal or hexa.
+
+val = 10
+aval = 34.43
+
+
+string
+--------
+string is sequence of characters
+string is defined in single or double or triple quotes.
+
+aname = 'python programming'
+bname = "unix shell programming"
+cname = """java programming"""
+
+
+list
+-----
+list is defined in [].
+list contains set of elements.
+Elements can be number or string or any combination
+
+alist = [10,20,30,40]
+blist = ['unix','java','r']
+clist = [30,34.34,'java']
+dlist = [['java','oracle'],[10,20],['c','cPP']]
+
+
+
+tuple( immutable , uneditable , unchangeable)
+-------
+tuple elements are defined in ().
+tuple contains set of elements.
+Elements can be number or string or any combination
+
+
+atup = (10,20,30,40)
+btup = ('unix','java','r')
+
+
+
+
+dictionary
+---------------------
+dictionary is defined in {}.
+dictionary contains elements in keys and values.
+In a dictionary, key can be number or string used to uniquely identify the value.
+                value can be number or string or list or tuple or dictionary or any other complex structure
+
+syntax:     object = {key:value , key:value , key:value}
+example:     book  = {'chap1':10,'chap2':20,'chap3':30}
+              info = {10:20,20:30,40:50}
+	    bookinfo = {'chap1':['rita','US'],'chap2':['ram','US']}               
+
+
+
+
+set
+----
+set is unordered collection or UNIQUE items of the same type.
+
+aset = {10,10,10,20,20,30}
+
+
+
+
+
+
+
+
+
