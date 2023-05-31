@@ -71,6 +71,68 @@ aset = {10,10,10,20,20,30}
 
 
 
+file handling
+-----------------------
+
+There are 2 types of fies
+
+
+
+working with flat files (   .log .csv .conf  .txt  .tsv  .prop )
+-------------------------------------------
+
+
+opening the file
+-----------------
+
+syntax:   object = open(filename,mode)
+example:     fr  = open('customers.txt','r')
+             fw  = open('customers.txt','w')
+             fa  = open('customers.txt','a')
+
+
+
+closing the fie
+-------------------
+fr.close()
+
+
+
+
+
+
+
+working with third party files ( xlsx  docx ppt  7z rar ... )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
