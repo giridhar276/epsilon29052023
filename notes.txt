@@ -99,6 +99,37 @@ fr.close()
 
 
 
+read operation
+----------------
+
+
+-reading line by line using file object
+- read the file using fobj.readlines()
+- read the file using fobj.read()
+- readiing using csv library ( for csv files)
+- reading using pandas library
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
