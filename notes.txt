@@ -130,12 +130,41 @@ read operation
 
 
 
+exception handling
+---------------------
+
+There are 2 types of errors
+
+- syntax error
+- semantic error or runtime error
 
 
+Handling the errors in the runtime is known as exception handling.
 
-working with third party files ( xlsx  docx ppt  7z rar ... )
+
+try
+except
+else
+finally
 
 
+function | definition(python) | block | submodule | subroutine
+------------------------------------------------------------------
+
+
+user defined functions
+-------------------------------
+- code reusability
+- we define the block once ... and call it for multiple times
+
+
+ways of passing arguments
+------------------------------
+
+- fixed arguments
+- default arguments
+- keyword arguments
+- variable length arguments
 
 
 
