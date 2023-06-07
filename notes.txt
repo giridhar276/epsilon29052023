@@ -112,7 +112,10 @@ read operation
 
 
 
-
+pandas - data analytics tool
+---------------------------------
+- to process data 
+- execution is pretty faster than regular file handling
 
 
 
@@ -168,19 +171,34 @@ ways of passing arguments
 
 
 
+library | package | module 
+-----------------------------------
+Every library contains methods of some particular task
+
+- reusability
 
 
 
 
 
 
+database
+------------
+
+step1: connect to database
+step2: define query
+step3: execute query	
+step4: fetch output
+step5: close the connection
 
 
 
 
 
 
-
+REST API
+API
+backend programming
 
 
 
